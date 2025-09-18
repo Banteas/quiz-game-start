@@ -16,7 +16,7 @@ The quiz uses trivia questions from the [Open Trivia Database](https://opentdb.c
 ## ▶️ How to Run
 1. Clone this repository:
  ```
-git clone https://github.com/your-username/quiz-game-start.git
+git clone https://github.com/Banteas/quiz-game-start.git
 cd quiz-game-start
    ```
 ## 📂 Project Structure
